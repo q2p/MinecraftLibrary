@@ -1,0 +1,9 @@
+main: q2p.hentailibrary.Library
+name: Images library
+version: 1.0
+author: q2p
+description: Find out what this library stores
+commands:
+  begin:
+    description: Begins the searching mode
+    usage: /begin
